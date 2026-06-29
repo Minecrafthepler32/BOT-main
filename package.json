@@ -1,0 +1,16 @@
+{
+  "name": "discord-staff-bot",
+  "version": "1.0.0",
+  "description": "Discord staff bot with dynamic help system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
